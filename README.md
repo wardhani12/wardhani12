@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Halo%2C%20Saya%20Rahmad%21%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontAlignY=40"
-    alt="Halo, Saya Rahmad! 👋"
+    alt="Halo, Saya Rahmad Eka Putra Wardhani! 👋"
     width="100%"
   />
 </div>
