@@ -15,7 +15,7 @@
       <p>🚀 Saya senang membangun sistem digital, mengulik algoritma rekomendasi, dan mengintegrasikan visual branding ke dalam baris kode.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=wardhani12&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@ Berikut adalah beberapa proyek utama yang telah saya kembangkan:
 *   **🔹 Koperasi Management System**
     *   *Sistem manajemen koperasi digital untuk pengelolaan simpan pinjam anggota secara transparan dan otomatis.*
 *   **🔹 Hybrid Movie Recommendation System**
-    *   *Sistem rekomendasi film cerdas menggunakan metodeCollaborative Filtering dan Naive Bayes.*
+    *   *Sistem rekomendasi film cerdas menggunakan metode Collaborative Filtering dan Naive Bayes.*
 *   **🔹 Sistem Presensi Mahasiswa (CI4)**
     *   *Platform absensi mahasiswa berbasis web yang cepat dan andal menggunakan CodeIgniter 4.*
 *   **🔹 GreenScan Mobile App**
@@ -65,8 +65,8 @@ Berikut adalah beberapa proyek utama yang telah saya kembangkan:
 
 ## 📊 GitHub Performance
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Rahmad's GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false" alt="Rahmad's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=wardhani12&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Rahmad's GitHub Stats" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=wardhani12&theme=vision-friendly-dark&hide_border=false" alt="Rahmad's Streak Stats" width="48%" />
 </div>
 
 ---
@@ -89,5 +89,5 @@ Mari berdiskusi tentang web development, visual branding, atau kolaborasi proyek
 <br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rahmadekapw-afk&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=wardhani12&icon=0&color=0" alt="Visitor Count" />
 </div>
